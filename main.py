@@ -31,7 +31,7 @@ def eth():
 l___j___j|____jl__j__j|____jl__j__jl___,_j    l__j\_j|____jl___,_jl__j__j  l__j      l__j__j \___/   \_/\_/  
                                                                                                              
                                                            
-                                    #MADE BY akame#6222""")
+                                    #MADE BY kwry#3846""")
     print0040("Connecting To Api")
     time.sleep(delay)
     r1 = random.randint(20, 50)
@@ -74,7 +74,7 @@ l___j___j|____jl__j__j|____jl__j__jl___,_j    l__j\_j|____jl___,_jl__j__j  l__j 
 |   |   | j  l |  |  | j  l |  |  ||     |    |  .  Y j  l |     ||  |  |  |  |      |  |  |l     ! \      / 
 l___j___j|____jl__j__j|____jl__j__jl___,_j    l__j\_j|____jl___,_jl__j__j  l__j      l__j__j \___/   \_/\_/  
                                                                                                                          
-                                    #MADE BY akame#6222""")
+                                    #MADE BY kwry#3846""")
         print(colorama.Fore.GREEN + "Generated Code - " + "".join(rc) + " - " + str(r1) + "$")
         time.sleep(1)
         print(colorama.Fore.GREEN + "Sending Money To Main Address")
@@ -91,7 +91,7 @@ while True:
     if main == "3":
         eth()
     if main == "1":
-        print("Program Was Fully Coded By akame #6222")
+        print("Program Was Fully Coded By kwry#3846")
         input("")
     if main == "2":
         main = input("soeKNBBjbbTwoxwdYGNwGpKYKxuPOdbFdGHUhyuGeScCFXcONbBfShdJAmcZviVY")
